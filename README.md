@@ -7,6 +7,11 @@ A fun little Pong game written in Python
  - Import numpy and pygame into your IDE
  - Run Pong.py
  - Enjoy
+ 
+ **Screenshots:**
+ ![](https://i.imgur.com/2XcVtFI.png)
+ 
+ ![](https://i.imgur.com/xmWt1QZ.png)
 
 **Issues:**
  - Changing resolutions looks weird ingame
