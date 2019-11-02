@@ -8,6 +8,10 @@ A fun little Pong game written in Python
  - Run Pong.py
  - Enjoy
  
+**Controls:**
+ - Player 1: WASD
+ - Player 2: Arrow Keys
+ 
  **Screenshots:**
  ![](https://i.imgur.com/2XcVtFI.png)
  
