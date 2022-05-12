@@ -9,7 +9,7 @@ A fun little Pong game written in Python
  - Enjoy
  
 **Controls:**
- - Plasdfsdfyer ggfg41: WAasdasdasdfSD
+ - Plasdfs4432342dfyer ggfg41: WAasdas234234234dasdfSD
  - Player 2: Arrow Keys
  
  **Screenshots:**
